@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Danny Nguyen"
 title_separator          : "-"
 name                     : "Danny Nguyen"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Hexwire"
+url                      : "http://hexwire.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -50,9 +50,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-76676853-1"
 
 # Google AdSense
 google_ad_client         :
@@ -63,9 +63,9 @@ google_ad_slot           :
 author:
   name             : "Danny Nguyen"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Software Developer & Signal Processing Engineer"
+  location         : "Chapel Hill, NC"
+  email            : "danny@hexwire.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -73,12 +73,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : nooges
+  github           : "nooges"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "nooges"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
