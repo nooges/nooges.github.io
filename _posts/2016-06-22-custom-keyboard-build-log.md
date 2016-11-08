@@ -7,7 +7,7 @@ comments: false
 author_profile: true
 ---
 
-Within the past couple of months, I've started to get into using mechanical keyboards. I don't exactly know what spurred me to try them out, but now I'm hooked, and it's hard to avoid going to [/r/mechanicalkeyboards](https://reddit.com/r/mechanicalkeyboards). After hanging out there for a while and seeing people do custom keyboard builds, I decided to do my own build. So here's a log of my build (currently in progress, as I wait for all the parts to arrive).
+Within the past couple of months, I've started to get into using mechanical keyboards. I don't exactly know what spurred me to try them out, but now I'm hooked, and it's hard to avoid going to [/r/mechanicalkeyboards](https://reddit.com/r/mechanicalkeyboards). After hanging out there for a while and seeing people do custom keyboard builds, I decided to do my own build. So here's a log of my build.
 
 ## Keyboard Type
 One of the builds I saw on Reddit was of a [5x13 ortholinear keyboard](https://www.reddit.com/r/MechanicalKeyboards/comments/4m2cbg/photos_custom_5x13_keyboard/). It looked pretty cool, and the maker posted up the file for the case design, so I decided to go with that, as opposed to designing something from scratch.
