@@ -62,7 +62,7 @@ To wire up the columns, I use [22 AWG hookup wire](https://www.amazon.com/Elenco
 ![Hookup Wire](https://images-na.ssl-images-amazon.com/images/I/81NPHtQS%2BkL._SL1500_.jpg)
 
 For each column, I cut a length of wire to go from the top row to the bottom and then used a wire stripper to remove some of the insulation. Here's the board after adding the first column wire:
-![First column](http://i.imgur.com/eucjOdG.jpg)
+![First column](http://i.imgur.com/eucjOdG.jpg?1)
 
 After adding all the column wires, I soldered the diodes to the switches and to each other. Having one of those helping hands tools helps out immensely here. Here's how it looked after doing the first row:
 
