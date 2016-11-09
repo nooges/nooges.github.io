@@ -56,10 +56,14 @@ Another shot of the back side, you can see where I cracked the plate next to the
 ## Keycaps
 I've been eyeing DSA keycaps for a while, and I happened to be browsing [/r/mechmarket](https://reddit.com/r/mechmarket) at just the right time, when someone posted DSA caps for a good price. Seems like those go fast these days. The set I got only came with some of the keys for the number row, and everything else is just random. I don't particularly care for what legends are on there, as it's not like I look at the keyboard to type.
 
-Originally, I was going to use DSA keycaps and bought some random ones from someone off of [/r/mechmarket](https://reddit.com/r/mechmarket):
+Originally, I was going to use those DSA keycaps as seen here:
 ![img_3999](https://cloud.githubusercontent.com/assets/204212/16386571/235471a2-3c5f-11e6-94bb-cd4847335e42.JPG)
 
 But while waiting for other parts to arrive, I bought [2 grab bags from PMK](http://pimpmykeyboard.com/grab-bags/) and ended up liking the SA profile keycaps a lot more. I got a ton of [PuLSE SA](https://www.massdrop.com/buy/pulse-sa-keycap-set?mode=guest_open) and trading with others to get a more complete set.
+
+So much PuLSE, this is not even half of my collection:
+
+![PuLSE keycaps](http://i.imgur.com/z68exbt.jpg?3)
 
 ## Busting out the soldering iron
 I had to wait a while for the diodes to arrive before moving on to handwiring the board, since I ordered them from eBay and they were shipped from China. For each of the diodes, I took a pair of pliers and bent it at a sharp 90 degree bend. Some people take a bunch of diodes and bend them all at once, but using the pliers gives a much neater look in my opinion.
