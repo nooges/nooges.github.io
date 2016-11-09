@@ -1,13 +1,16 @@
 ---
 layout: single
 title: Custom 5x13 keyboard build log
-tags: []
+tags: [keyboard]
 modified: 2016-11-08
 comments: false
 author_profile: true
+thumbnail: http://i.imgur.com/THgHQKv.jpg
 ---
 
 Within the past couple of months, I've started to get into using mechanical keyboards. I don't exactly know what spurred me to try them out, but now I'm hooked, and it's hard to avoid going to [/r/mechanicalkeyboards](https://reddit.com/r/mechanicalkeyboards). After hanging out there for a while and seeing people do custom keyboard builds, I decided to do my own build. So here's a log of my build.
+
+![Final keyboard](http://i.imgur.com/THgHQKv.jpg)
 
 ## Keyboard Type
 One of the builds I saw on Reddit was of a [5x13 ortholinear keyboard](https://www.reddit.com/r/MechanicalKeyboards/comments/4m2cbg/photos_custom_5x13_keyboard/). It looked pretty cool, and the maker posted up the file for the case design, so I decided to go with that, as opposed to designing something from scratch.
@@ -39,12 +42,15 @@ Normally, the switches are used with 1.5mm thick plates, where they snap in just
 For the spacebar, I went with a 2u wide spacebar and needed to install stabilizers for it. I got Cherry stabilizers, but had to file off parts of it to get it to fit on the plate. Unfortunately, I cracked part of the acrylic while trying to figure out how to install one of the stabilizers.
 
 Back side of the plate
+
 ![img_3953](https://cloud.githubusercontent.com/assets/204212/16386573/2355833a-3c5f-11e6-8b1b-88c9a0cddcf5.JPG)
 
 Front side of the plate
+
 ![img_3954](https://cloud.githubusercontent.com/assets/204212/16386575/2355a9e6-3c5f-11e6-8fe5-3aae82f1e0d9.JPG)
 
 Another shot of the back side, you can see where I cracked the plate next to the right stabilizer
+
 ![img_3955](https://cloud.githubusercontent.com/assets/204212/16386572/235568f0-3c5f-11e6-9778-4d1ef39ea877.JPG)
 
 ## Keycaps
@@ -90,7 +96,7 @@ Next, I created a Micro USB to Mini USB adapter. I took a Micro USB cable, shave
 
 ![USB and reset switch](http://i.imgur.com/NLNixQa.jpg)
 
-Before closing up the case, I added some memory foam to help dampen noise from the switches and to prevent the top layer of the keyboard from flexing. I got a free sample of memory foam from [Tempur-Pedic](https://register.tempurpedic.com/tempurme/)
+Before closing up the case, I added some memory foam to help dampen noise from the switches and to prevent the top layer of the keyboard from flexing. I got a free sample of memory foam from [Tempur-Pedic](https://register.tempurpedic.com/tempurme/).
 
 ![Closed bottom and foam](http://i.imgur.com/ze9kZFz.jpg)
 
@@ -103,7 +109,11 @@ For the firmware, I used the [QMK firmware](https://github.com/jackhumbert/qmk_f
 
 Here's the final result!
 
-![Final keyboard](http://i.imgur.com/8DD7dEW.jpg)
+![Final keyboard](http://i.imgur.com/THgHQKv.jpg)
+
+I tried my best to make the keycaps look like one of my favorite characters from ATHF, Ignignokt:
+
+![Ignignokt](http://vignette3.wikia.nocookie.net/athfwiki/images/e/eb/Ignignokt.png/revision/latest?cb=20080316001408)
 
 After putting everything together and using the keyboard, turns out there's a couple of things that annoy me about it. First, the combination of SA keycaps and stock brown switches makes the keys too easy to press. Second, I've now realized that I prefer my spacebar to just be a 1u key, instead of a 2u key, since I only hit the spacebar with my left thumb.
 

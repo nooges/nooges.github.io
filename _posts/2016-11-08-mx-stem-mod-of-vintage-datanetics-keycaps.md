@@ -1,10 +1,11 @@
 ---
 layout: single
 title: Modding MX Stems onto Vintage Datanetics Keycaps
-tags: []
+tags: [keyboard]
 modified: 
 comments: false
 author_profile: true
+thumbnail: http://i.imgur.com/ytuAEJa.jpg
 ---
 
 ## Sighting at the thrift store
@@ -98,6 +99,10 @@ It took few days of gluing, waiting for things to dry, and adding a bit more epo
 Here they all are, sitting on my Planck. The alphas and Panic keycaps on the board also had to be MX stem modded, as they came from a grab bag and had a square box inside instead of a stem.
 
 ![Planck](http://i.imgur.com/q1sqQRk.jpg)
+
+Closer view of some of these bad boys. The legends on the 7 and 8 keys are pretty awesome in my opinion.
+
+![Final Result First](http://i.imgur.com/ytuAEJa.jpg)
 
 ## Next Project
 
