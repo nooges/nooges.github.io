@@ -54,7 +54,7 @@ Another shot of the back side, you can see where I cracked the plate next to the
 ![img_3955](https://cloud.githubusercontent.com/assets/204212/16386572/235568f0-3c5f-11e6-9778-4d1ef39ea877.JPG)
 
 ## Keycaps
-I've been eyeing DSA keycaps for a while, and I happened to be browsing [/r/mechmarket](https://reddit.com/r/mechmarket) at just the right time, when someone posted DSA caps for a good price. Seems like those go fast these days. The set I got only came with some of the keys for the number row, and everything else is just random. I don't particularly care for what legends are on there, as it's not like I look at the keyboard to type.
+I've been eyeing DSA keycaps for a while, and I happened to be browsing [/r/mechmarket](https://reddit.com/r/mechmarket) at just the right time, when someone posted DSA caps for a good price. The set I got only came with some of the keys for the number row, and everything else is just random. I don't particularly care for what legends are on there, as it's not like I look at the keyboard to type.
 
 Originally, I was going to use those DSA keycaps as seen here:
 ![img_3999](https://cloud.githubusercontent.com/assets/204212/16386571/235471a2-3c5f-11e6-94bb-cd4847335e42.JPG)
